@@ -1,0 +1,38 @@
+{
+  "name": "is-7z",
+  "version": "0.1.0",
+  "description": "Check if a Buffer/Uint8Array is a 7Z archive",
+  "license": "MIT",
+  "repository": "t1st3/is-7z",
+  "author": {
+    "name": "T1st3",
+    "email": "contact@tiste.org",
+    "url": "http://www.tiste.org"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "7z",
+    "7-zip",
+    "archive",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "binary",
+    "buffer",
+    "uint8array"
+  ],
+  "devDependencies": {
+    "ava": "^0.10.0",
+    "read-chunk": "^1.0.1",
+    "xo": "^0.12.1"
+  }
+}
