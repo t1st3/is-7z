@@ -1,4 +1,4 @@
-# is-7z [![Build Status](https://travis-ci.org/T1st3/is-7z.svg?branch=master)](https://travis-ci.org/T1st3/is-7z)
+# is-7z [![Build Status](https://travis-ci.org/t1st3/is-7z.svg?branch=master)](https://travis-ci.org/t1st3/is-7z)
 
 > Check if a Buffer/Uint8Array is a [7Z](https://en.wikipedia.org/wiki/7z) archive.
 
@@ -50,4 +50,4 @@ It only needs the first 6 bytes.
 
 ## License
 
-MIT © [T1st3](http://www.tiste.org)
+MIT © [t1st3](http://www.tiste.org)
