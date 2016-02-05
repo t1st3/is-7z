@@ -1,4 +1,7 @@
-# is-7z [![Build Status](https://travis-ci.org/t1st3/is-7z.svg?branch=master)](https://travis-ci.org/t1st3/is-7z)
+# is-7z
+
+[![NPM version](https://img.shields.io/npm/v/is-7z.svg)](https://www.npmjs.com/package/is-7z)
+[![Build Status](https://travis-ci.org/t1st3/is-7z.svg?branch=master)](https://travis-ci.org/t1st3/is-7z)
 
 > Check if a Buffer/Uint8Array is a [7Z](https://en.wikipedia.org/wiki/7z) archive.
 
