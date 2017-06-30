@@ -1,5 +1,7 @@
 # is-7z
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/t1st3/is-7z.svg)](https://greenkeeper.io/)
+
 [![NPM version](https://img.shields.io/npm/v/is-7z.svg)](https://www.npmjs.com/package/is-7z)
 [![Build Status](https://travis-ci.org/t1st3/is-7z.svg?branch=master)](https://travis-ci.org/t1st3/is-7z)
 
